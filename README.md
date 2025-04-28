@@ -7,15 +7,18 @@
 For this project, you will select a dataset of your choice to explore an LLM or AI project. 
 
 ## Requirements 
+
+- Your project should involve applying a pretrained model for text data
 - Your task must be one or more of the following:
   - translation 
   - summarization
   - sentiment analysis
   - entity recognition 
-- Your project should involve applying a pretrained model for text data
-- Your text must be labeled or annotated data (it is recommended to use a dataset that was previously used for benchmarking or research )
+- Your text must be labeled or annotated data 
+  - it is recommended to use a dataset that was previously used for benchmarking or research 
+  - Explore Hugging Face datasets, Kaggle, etc. 
 - You must evaluate the performance of your model with appropriate metrics for your task 
-- (examples may include: ROUGE or BLEU )
+  - (examples may include: ROUGE or BLEU )
 - Use Hugging Face tooling 
 - Answer the following questions in a brief writeup: 
   - Why is model appropriate for your task and dataset? 
